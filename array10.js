@@ -13,5 +13,5 @@ function findmajority(arr){
     return -1;
 
 }
-let arr=[1,1,3,2,1,4,2,5]
+let arr=[1,1,3,2,1,4,2, 1,1, 5]
 console.log(findmajority(arr));
