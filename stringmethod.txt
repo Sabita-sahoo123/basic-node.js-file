@@ -1,0 +1,14 @@
+lenght()=for counting lenght of a string
+concat()=merg the string
+charAt()=find the string of a perticular index
+charteCodeAt()=find the code of a perticular string
+codePointAt()
+subString()
+at()
+slice()=omit a perticular index in an array
+toUpperCase()
+toLowerCase()
+trim(),trimStart(), trimEnd()=whitespace remove
+repeat()
+rePlaceAll()=replace all
+split()=create a breakpoint in string
